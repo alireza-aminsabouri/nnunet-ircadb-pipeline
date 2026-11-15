@@ -1,0 +1,19 @@
+# Data and model files (never upload patient data)
+raw/
+preprocessed/
+results/
+predictions/
+imagesTs/
+*.nii
+*.nii.gz
+*.dcm
+*.pth
+*.npz
+*.npy
+*.pkl
+# Python and notebook files
+__pycache__/
+.ipynb_checkpoints/
+*.log
+.env
+.DS_Store

@@ -1,0 +1,3 @@
+# Pin the version you used for your results, for example: nnunetv2==2.x.y
+nnunetv2
+SimpleITK
